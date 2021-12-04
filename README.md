@@ -5,3 +5,5 @@ You can sign up toh my Newsletter page and ill have the backend data of your:-
 1) First Name
 2) last Name
 3) and Email address
+You can access my Newsletter through the link provided the About section and here:-
+Website Link - https://vast-springs-76453.herokuapp.com/
